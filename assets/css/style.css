@@ -1,0 +1,14 @@
+body{
+    height: 100vh;
+    background-image:url(https://media.istockphoto.com/id/1203930843/photo/blue-red-light-background.jpg?s=612x612&w=0&k=20&c=d6L5_bxsO4WQbVe-kL-7Pc5J-it0gj90LvcKrRjS18Q=) ;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+    background-position: fix;
+
+}
+
+.signInBox{
+            height: 100vh;
+}
